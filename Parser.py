@@ -1,3 +1,5 @@
+# Изучаю GitHub
+
 from bs4 import BeautifulSoup # импортируем библиотеку BeautifulSoup
 import requests # импортируем библиотеку requests
 
