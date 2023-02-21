@@ -1,0 +1,7 @@
+.idea/.gitignore
+.idea/inspectionProfiles/profiles_settings.xml
+.idea/misc.xml
+.idea/modules.xml
+.idea/pythonProject2.iml
+.idea/vcs.xml
+__pycache__/Parser.cpython-311.pyc
